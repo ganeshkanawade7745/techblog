@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Mochiy+Pop+One&family=Roboto&family=Varela+Round&display=swap');
+
+.btn{
+    /* justify-content: center; */
+    padding: 50%;
+    border-radius: 50%;
+}
+.play-btn{
+    color: red;
+    justify-content: center;
+    margin-left: 50%;
+    margin-top:18%;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;   
+    bottom: 0px;
+
+}
+h2{
+    text-align: center;
+    margin-top:10%;
+    justify-content: center;
+color: aliceblue;
+font-family: serif;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;   
+    bottom: 0px;  
+}
+.row{
+    background-color: rgb(226, 217, 217);
+}
+.container{
+    position: absolute;
+    left:20px;
+    right: 20px;
+    top: 400px;   
+    height: 600px;
+    width: 1000px;
+    padding: auto;
+}
+.card-img-top{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    align-self: center;
+}
